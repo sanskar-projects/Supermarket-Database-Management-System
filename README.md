@@ -1,42 +1,5 @@
-<! DOCTYPE html>
-<html>
-<head>
-
-<link rel="stylesheet" href="pysda.css">
-
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-</head>
-
-<body>
-
-<p class="home">
-<a href="index.html">
-go to home
-</a>
-</p>
-<br>
-  <br>
-  <br>
-  <br>
-  <br>
-<p>
 SUPERMARKET DATABASE MANGEMENT SYSTEM
-</p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<hr>
-
-<p>
-Mission of the project
-</p>
-
-<p>
 A program written in C language intended to function as a database management system for supermarkets.<br>
 It doesn't require an interaction with any RDBMS software but still capable of synchronizing data by utiizing files as databases.<br>
 Being written in a low level language which is closer to machine code it has a very fast performance and minimal execution time.<br>
@@ -53,17 +16,6 @@ The quantity of a certain product in the database is reduced according to it's q
 For removing a certain product the user is asked to select it by entering it's SN.<br>
 An option is provided to synchronize the data with the database which first backs up data to the database then loads data from the database consecutively.<br>
 <br>NOTE: It's recommended to synchronize the data after removing a certain product and before removing another product otherwise undesired changes may be reflected in the data.
-</p>
-
-<hr>
-<hr>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <p>
 LOADING DATA FROM THE DATABASE
 </p>
@@ -133,5 +85,3 @@ an integer has been typed on the cache.txt file which indicates the number of pr
 </p>
 <hr>
 <img src="cache.png" id="9">
-
-</body>
