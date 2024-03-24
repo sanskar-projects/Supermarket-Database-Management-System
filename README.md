@@ -20,7 +20,7 @@ An option is provided to synchronize the data with the database which first back
 LOADING DATA FROM THE DATABASE
 </p>
 <hr>
-<img src="load.png" id="1">
+<img src="output/load.png" id="1">
 
 <hr>
 
@@ -28,7 +28,7 @@ LOADING DATA FROM THE DATABASE
 ADDING PRODUCTS
 </p>
 <hr>
-<img src="add.png" id="2">
+<img src="output/add.png" id="2">
 
 <hr>
 
@@ -36,7 +36,7 @@ ADDING PRODUCTS
 DISPLAYING PRODUCTS
 </p>
 <hr>
-<img src="display.png" id="3">
+<img src="output/display.png" id="3">
 
 <hr>
 
@@ -44,7 +44,7 @@ DISPLAYING PRODUCTS
 GENERATING INVOICE
 </p>
 <hr>
-<img src="bill.png" id="4">
+<img src="output/bill.png" id="4">
 
 <hr>
 
@@ -52,7 +52,7 @@ GENERATING INVOICE
 data has been backed up to the database.txt file
 </p>
 <hr>
-<img src="db.png" id="5">
+<img src="output/db.png" id="5">
 
 <hr>
 
@@ -60,7 +60,7 @@ data has been backed up to the database.txt file
 REMOVING A PRODUCT
 </p>
 <hr>
-<img src="pop.png" id="6">
+<img src="output/pop.png" id="6">
 
 <hr>
 
@@ -68,7 +68,7 @@ REMOVING A PRODUCT
 SYNCHRONIZING DATA WITH THE DATABASE
 </p>
 <hr>
-<img src="sync.png" id="7">
+<img src="output/sync.png" id="7">
 
 <hr>
 
@@ -76,7 +76,7 @@ SYNCHRONIZING DATA WITH THE DATABASE
 generated invoices have been backed up to the invoice.txt file
 </p>
 <hr>
-<img src="invoice.png" id="8">
+<img src="output/invoice.png" id="8">
 
 <hr>
 
@@ -84,4 +84,4 @@ generated invoices have been backed up to the invoice.txt file
 an integer has been typed on the cache.txt file which indicates the number of products existing in the database.txt file
 </p>
 <hr>
-<img src="cache.png" id="9">
+<img src="output/cache.png" id="9">
